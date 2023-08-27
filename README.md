@@ -46,8 +46,8 @@ Existing domain account used for Splunk installation. Account for Splunk Enterpr
 <img src="https://imgur.com/fQ83RiZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<b>DiskPart succeeded in wiping the disk:</b>  <br/>
-<img src="https://imgur.com/rNJO97I.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<b>Addition of new receiving port for Splunk - port 9997:</b>  <br/>
+<img src="https://imgur.com/NBTmObu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <b>Disk format complete and primary partition set (ntfs permissions applied and drive letter assigned:</b>  <br/>
