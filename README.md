@@ -5,8 +5,16 @@
 This project demonstrates installing Splunk Enterprise on Windows devices (specifically Windows 11 Pro & Windows Server 2022 Standard). This install also includes configuring Windows firewall settings to work with Splunk Enterprise, as well as installing the Splunk forwarder to receive all Windows logs.
 <br>
 <br>
+- <b>Install and Configure the Splunk Enterprise Application</b>
+<br>
+- <b>Configure a Splunk Client</b>
+<br>
+- <b>Collect Logs using Splunk Enterprise</b>
+<br>
+<br>
+Existing domain account used for Splunk installation. Account for Splunk Enterprise created during installation.
 
-<h2>Application Used</h2>
+<h2>Application Installed</h2>
 
 - <b>Splunk Enterprise</b> 
 
@@ -18,24 +26,24 @@ This project demonstrates installing Splunk Enterprise on Windows devices (speci
 <h2>Program Screenshots:</h2>
 
 <p align="center">
-<b>Screenshot of J: drive containing data/pictures:</b> <br/>
-<img src="https://imgur.com/RxXGjE9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<b>Screenshot of downloads folder - Splunk Enterprise Installer:</b> <br/>
+<img src="https://imgur.com/ZkyqhAb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<b>User input (select disk ID):</b> <br/>
-<img src="https://imgur.com/LQCoLBc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<b>Splunk Enterprise installation options - customize options (domain account):</b> <br/>
+<img src="https://imgur.com/yKYWPFM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<b>User input (enter number of passes for disk wipe):</b> <br/>
-<img src="https://imgur.com/3vTKLMx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<b>Splunk Install Progress:</b> <br/>
+<img src="https://imgur.com/8F34451.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<b>User input (confirm disk ID and number of passes for disk wipe):</b>  <br/>
-<img src="https://imgur.com/iUBechQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<b>Splunk Enterprise Successful Installation:</b>  <br/>
+<img src="https://imgur.com/tivZIOj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<b>Disk 1 selected (sanitization in progress) this may take some time to complete:</b>  <br/>
-<img src="https://imgur.com/EFaxDy2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<b>Splunk Enterprise Dashboard - Microsoft Edge Browser (127.0.0.1:8000):</b>  <br/>
+<img src="https://imgur.com/fQ83RiZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <b>DiskPart succeeded in wiping the disk:</b>  <br/>
