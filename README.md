@@ -102,4 +102,12 @@ Existing domain account used for Splunk installation. Account for Splunk Enterpr
 <img src="https://imgur.com/VJw2kCx.png" height="80%" width="80%" alt="Splunk Enterprise Install"/>
 <br />
 <br />
+<b>Windows log results from server (ACIDM01 - Windows Server 2022 Standard):</b>  <br/>
+<img src="https://imgur.com/nFeYztt.png" height="80%" width="80%" alt="Splunk Enterprise Install"/>
+<br />
+<br />
+<b>Additional view of Windows log results from server (ACIDM01 - Windows Server 2022 Standard):</b>  <br/>
+<img src="https://imgur.com/aaP7TdZ.png" height="80%" width="80%" alt="Splunk Enterprise Install"/>
+<br />
+<br />
 
