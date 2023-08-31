@@ -26,7 +26,7 @@ Existing domain account used for Splunk installation. Account for Splunk Enterpr
 <h2>Program Screenshots:</h2>
 
 <p align="center">
-<b>Screenshot of downloads folder - Splunk Enterprise Installer:</b> <br/>
+<b>Screenshot of downloads folder - Splunk Enterprise Installer (Windows 11 Pro device):</b> <br/>
 <img src="https://imgur.com/ZkyqhAb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
