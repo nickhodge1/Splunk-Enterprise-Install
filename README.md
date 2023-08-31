@@ -66,3 +66,20 @@ Existing domain account used for Splunk installation. Account for Splunk Enterpr
 <img src="https://imgur.com/M1MVgU3.png" height="80%" width="80%" alt="Splunk Enterprise Install"/>
 <br />
 <br />
+<b>Splunk universal forwarder - Windows event logs (Windows Server 2022 Standard):</b>  <br/>
+<img src="https://imgur.com/qnDRTCe.png" height="80%" width="80%" alt="Splunk Enterprise Install"/>
+<br />
+<br />
+<b>(Windows Server 2022 Standard) Splunk universal forwarder - deployment server configuration (192.168.0.3:8089 - Windows 11 Pro device):</b>  <br/>
+<img src="https://imgur.com/hyOsIJr.png" height="80%" width="80%" alt="Splunk Enterprise Install"/>
+<br />
+<br />
+<b>(Windows Server 2022 Standard) Splunk universal forwarder - receiving indexer configuration (192.168.0.3:9997 - Windows 11 Pro device):</b>  <br/>
+<img src="https://imgur.com/AGQHr4w.png" height="80%" width="80%" alt="Splunk Enterprise Install"/>
+<br />
+<br />
+<b>Splunk universal forwarder installation success (Windows Server 2022 Standard):</b>  <br/>
+<img src="https://imgur.com/Q3XHbqH.png" height="80%" width="80%" alt="Splunk Enterprise Install"/>
+<br />
+<br />
+
