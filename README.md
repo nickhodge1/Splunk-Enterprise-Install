@@ -94,4 +94,12 @@ Existing domain account used for Splunk installation. Account for Splunk Enterpr
 <img src="https://imgur.com/cbumvRG.png" height="80%" width="80%" alt="Splunk Enterprise Install"/>
 <br />
 <br />
+<b>Click on "collect local event logs from this machine" (Windows logs). This will be the Windows logs from the server ACIDM01:</b>  <br/>
+<img src="https://imgur.com/WYhNT0X.png" height="80%" width="80%" alt="Splunk Enterprise Install"/>
+<br />
+<br />
+<b>Review the forwarder selected and log data selected before submitting:</b>  <br/>
+<img src="https://imgur.com/VJw2kCx.png" height="80%" width="80%" alt="Splunk Enterprise Install"/>
+<br />
+<br />
 
