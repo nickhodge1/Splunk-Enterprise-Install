@@ -50,12 +50,15 @@ Existing domain account used for Splunk installation. Account for Splunk Enterpr
 <img src="https://imgur.com/NBTmObu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<b>Disk format complete and primary partition set (ntfs permissions applied and drive letter assigned:</b>  <br/>
-<img src="https://imgur.com/aFhSWME.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<b>Configure Windows Firewall - Advanced Settings:</b>  <br/>
+<img src="https://imgur.com/eX1LA6y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<b>Drive J: shown after wipe containing no data:</b>  <br/>
-<img src="https://imgur.com/jDWb5ZJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<b>Configure new inbound firewall rule:</b>  <br/>
+<img src="https://imgur.com/7Zyvw2z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-</p>
+<b>New inbound firewall rule titled "Splunk" can be seen in the rules list:</b>  <br/>
+<img src="https://imgur.com/Wa82WFY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
