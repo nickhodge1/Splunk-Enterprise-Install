@@ -82,4 +82,16 @@ Existing domain account used for Splunk installation. Account for Splunk Enterpr
 <img src="https://imgur.com/Q3XHbqH.png" height="80%" width="80%" alt="Splunk Enterprise Install"/>
 <br />
 <br />
+<b>Splunk Enterprise dashboard (Windows 11 Pro device) - add data (explore Splunk Enterprise pane):</b>  <br/>
+<img src="https://imgur.com/dr5CuEj.png" height="80%" width="80%" alt="Splunk Enterprise Install"/>
+<br />
+<br />
+<b>Scroll down in explore Splunk Enterprise pane to "forward data from a Splunk forwarder (Windows 11 Pro device):</b>  <br/>
+<img src="https://imgur.com/Pif8CMn.png" height="80%" width="80%" alt="Splunk Enterprise Install"/>
+<br />
+<br />
+<b>(Windows 11 Pro device) enter server class name (in this case "ACIDMO1 Logs". Next choose the appropriate forwarder (WINDOWS ACIDM01 - Windows Server 2022 Standard):</b>  <br/>
+<img src="https://imgur.com/cbumvRG.png" height="80%" width="80%" alt="Splunk Enterprise Install"/>
+<br />
+<br />
 
